@@ -3,8 +3,8 @@
 - 😄 Pronomes: Ela/Dela
 <div>
   <a href="https://beacons.ai/caroline-recla">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=caroline-recla&show_icons=true&theme=synthwave&include_all_commit=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-recla&slayout=compact&langs_count=16&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caroline-recla&show_icons=true&theme=synthwave&include_all_commit=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-recla&slayout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
 <div style="display: inline_block"><br>
